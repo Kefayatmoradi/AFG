@@ -529,9 +529,9 @@ logo =                                          ("""
 \033[1;93m                 dPwwYb    YbdPYbdP    8  "  8   \033[1;93m  N
 \033[1;92m                dP    Yb    YP  YP     8     8      \033[1;92m D
 
-\033[1;32m               \033[1;35mCREATED BY\33[0;m   :  \033[1;31mA.W.M\33[0;m\033[1;39m Pro \033[1;35mTeam\33[0;m
-\033[1;32m               \033[1;32mAUTHOR       :  \033[1;32mMirwais Danishyar
-\033[1;32m               \033[1;36mGITHUB       :  \033[1;33mBestProfessional
+\033[1;32m               \033[1;35mCREATED BY\33[0;m   :  \033[1;31mA\33[0;m\033[1;39m F \033[1;35mG\33[0;m
+\033[1;32m               \033[1;32mAUTHOR       :  \033[1;32mKefayat Moradi
+\033[1;32m               \033[1;36mGITHUB       :  \033[1;93mKefayatmoradi
 \033[1;32m               \033[1;32mSTATUS       :  \033[1;32mPermium
 \033[1;32m               \033[1;34mVIRSION      :  \033[1;31m1.5.0 [ E.N.D ]
 \33[37;44m\t         The best thing ! to do is to Start it..\33[0;m 
@@ -539,7 +539,7 @@ logo =                                          ("""
 """)
 
 clear()
-os.system("xdg-open https://www.facebook.com/subhanullah.niazay")
+os.system("xdg-open https://www.facebook.com/profile.php?id=100046690249549")
 xxxx = str(len(ugen))
 
 NameX =input('\033[1;97m[+]\033[1;92mYOUR NAME \033[1;91m: \033[1;96m')
